@@ -6,7 +6,7 @@
 package WebshopDjikstra;
 
 /**
- *
+ *Class to create a or several Vertex
  * @author Jørgen
  */
 public class Vertex {

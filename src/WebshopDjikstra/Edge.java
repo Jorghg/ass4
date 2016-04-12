@@ -6,7 +6,7 @@
 package WebshopDjikstra;
 
 /**
- *
+ *Class to create edges 
  * @author Jørgen
  */
 public class Edge {

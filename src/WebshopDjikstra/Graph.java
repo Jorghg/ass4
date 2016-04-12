@@ -8,7 +8,7 @@ package WebshopDjikstra;
 import java.util.List;
 
 /**
- *
+ *Creats a list of vertexes and Edges creating a graph
  * @author Jørgen
  */
 public class Graph {

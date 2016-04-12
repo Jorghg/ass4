@@ -15,7 +15,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- *
+ *Dijkstra Algorithm
  * @author Jørgen
  */
 public class DijkstraAlgorithm {
